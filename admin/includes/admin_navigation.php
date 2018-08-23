@@ -122,7 +122,7 @@
                                 <a href="posts.php">View Posts</a>
                             </li>
                             <li>
-                                <a href="posts?source=add_post.php">Add Posts</a>
+                                <a href="posts.php?source=add_post.php">Add Posts</a>
                             </li>
                         </ul>
                     </li>
