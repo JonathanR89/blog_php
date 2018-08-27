@@ -26,7 +26,7 @@
                         }
 
                         switch ($source) {
-                            case 'add_post.php':
+                            case 'add_post':
                                 include "includes/add_post.php";
                                 break;
 

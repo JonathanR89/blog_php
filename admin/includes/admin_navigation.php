@@ -122,7 +122,7 @@
                                 <a href="posts.php">View Posts</a>
                             </li>
                             <li>
-                                <a href="posts.php?source=add_post.php">Add Posts</a>
+                                <a href="posts.php?source=add_post">Add Posts</a>
                             </li>
                         </ul>
                     </li>
@@ -151,3 +151,4 @@
             </div>
              <!-- /.navbar-collapse -->
         </nav>
+        
