@@ -56,6 +56,7 @@
 
 		confirm($update_post);
 
+
     }
 
  ?>
